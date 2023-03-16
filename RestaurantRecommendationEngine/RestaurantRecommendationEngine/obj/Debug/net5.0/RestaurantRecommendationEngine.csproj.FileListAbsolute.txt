@@ -1,0 +1,16 @@
+C:\Users\manish\source\repos\RestaurantRecommendationEngine\RestaurantRecommendationEngine\bin\Debug\net5.0\RestaurantRecommendationEngine.exe
+C:\Users\manish\source\repos\RestaurantRecommendationEngine\RestaurantRecommendationEngine\bin\Debug\net5.0\RestaurantRecommendationEngine.deps.json
+C:\Users\manish\source\repos\RestaurantRecommendationEngine\RestaurantRecommendationEngine\bin\Debug\net5.0\RestaurantRecommendationEngine.runtimeconfig.json
+C:\Users\manish\source\repos\RestaurantRecommendationEngine\RestaurantRecommendationEngine\bin\Debug\net5.0\RestaurantRecommendationEngine.runtimeconfig.dev.json
+C:\Users\manish\source\repos\RestaurantRecommendationEngine\RestaurantRecommendationEngine\bin\Debug\net5.0\RestaurantRecommendationEngine.dll
+C:\Users\manish\source\repos\RestaurantRecommendationEngine\RestaurantRecommendationEngine\bin\Debug\net5.0\ref\RestaurantRecommendationEngine.dll
+C:\Users\manish\source\repos\RestaurantRecommendationEngine\RestaurantRecommendationEngine\bin\Debug\net5.0\RestaurantRecommendationEngine.pdb
+C:\Users\manish\source\repos\RestaurantRecommendationEngine\RestaurantRecommendationEngine\obj\Debug\net5.0\RestaurantRecommendationEngine.csproj.AssemblyReference.cache
+C:\Users\manish\source\repos\RestaurantRecommendationEngine\RestaurantRecommendationEngine\obj\Debug\net5.0\RestaurantRecommendationEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manish\source\repos\RestaurantRecommendationEngine\RestaurantRecommendationEngine\obj\Debug\net5.0\RestaurantRecommendationEngine.AssemblyInfoInputs.cache
+C:\Users\manish\source\repos\RestaurantRecommendationEngine\RestaurantRecommendationEngine\obj\Debug\net5.0\RestaurantRecommendationEngine.AssemblyInfo.cs
+C:\Users\manish\source\repos\RestaurantRecommendationEngine\RestaurantRecommendationEngine\obj\Debug\net5.0\RestaurantRecommendationEngine.csproj.CoreCompileInputs.cache
+C:\Users\manish\source\repos\RestaurantRecommendationEngine\RestaurantRecommendationEngine\obj\Debug\net5.0\RestaurantRecommendationEngine.dll
+C:\Users\manish\source\repos\RestaurantRecommendationEngine\RestaurantRecommendationEngine\obj\Debug\net5.0\ref\RestaurantRecommendationEngine.dll
+C:\Users\manish\source\repos\RestaurantRecommendationEngine\RestaurantRecommendationEngine\obj\Debug\net5.0\RestaurantRecommendationEngine.pdb
+C:\Users\manish\source\repos\RestaurantRecommendationEngine\RestaurantRecommendationEngine\obj\Debug\net5.0\RestaurantRecommendationEngine.genruntimeconfig.cache
